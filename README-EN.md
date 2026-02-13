@@ -91,5 +91,3 @@ LabelDeck supports multiple interface languages, including:
 - 한국어  
 - Español  
 - Français  
-
-If you need additional languages, I’m happy to add them.
