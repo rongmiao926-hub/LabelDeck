@@ -4,7 +4,6 @@
 
 LabelDeck is a lightweight, browser-based tool designed **for people who still need to label data by hand**.
 
-It was built by me — a social science student — through *vibe coding*,  
 to address a very real problem:
 
 **Many people are still doing data labeling, but do not have access to automation.**
